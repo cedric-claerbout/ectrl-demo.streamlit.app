@@ -1,0 +1,9 @@
+ticket_id,ticket_created_at,concrete_plant,customer_name,site_address,site_manager_name,site_manager_phone,language,concrete_mix,volume_m3,planned_arrival_time,truck_id,status
+BT-2026-001,2026-06-06 07:15,Betoncentrale Brussel,BuildCo NV,"Havenlaan 86, 1000 Brussel",Jan Peeters,+32471234567,NL,C30/37,8.0,08:10,TRK-014,loaded
+BT-2026-002,2026-06-06 07:30,Betoncentrale Antwerpen,De Sterke Fundering,"Noorderlaan 120, 2030 Antwerpen",Sofie Maes,0472 34 56 78,NL,C25/30,7.5,08:30,TRK-022,loaded
+BT-2026-003,2026-06-06 07:45,Centrale à Béton Liège,Construction Wallonne,"Quai de Coronmeuse 18, 4000 Liège",Luc Martin,+32 478 12 34 56,FR,C30/37,9.0,09:00,TRK-031,loaded
+BT-2026-004,2026-06-06 08:00,Betoncentrale Gent,Bouwgroep Schelde,"Vliegtuiglaan 10, 9000 Gent",An De Smet,,NL,C20/25,6.0,09:15,TRK-008,planned
+BT-2026-005,2026-06-06 08:05,Betoncentrale Leuven,Dijle Construct,"Vaartkom 22, 3000 Leuven",Tom Jacobs,,NL,C35/45,10.0,09:30,TRK-017,loaded
+BT-2026-006,2026-06-06 08:20,Centrale à Béton Charleroi,Bâtir Ensemble,"Rue de la Science 42, 6000 Charleroi",Marie Dubois,+32479111222,FR,C25/30,8.5,09:45,TRK-044,cancelled
+BT-2026-007,2026-06-06 08:35,Betoncentrale Hasselt,Limburg Bouw,"Kempische Steenweg 305, 3500 Hasselt",Koen Willems,0485-22-33-44,NL,C30/37,7.0,10:00,TRK-026,planned
+BT-2026-008,2026-06-06 08:50,Betoncentrale Mechelen,Rupel Projects,"Elektriciteitstraat 15, 2800 Mechelen",Eva Claes,0032 475 55 66 77,NL,C25/30,5.5,10:20,TRK-019,loaded
